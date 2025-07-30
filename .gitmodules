@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "DCEtool"]
 	path = DCEtool
-	url = https://github.com/cran/DCEtool
+	url = https://github.com/danielpereztr/dcetool
